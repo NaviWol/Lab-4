@@ -3,7 +3,6 @@ import socket
 import time
 from time import sleep
 
-
 # Local imports
 
 #from ..hal import hal_dc_motor as dc_motor
